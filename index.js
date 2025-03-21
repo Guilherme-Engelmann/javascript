@@ -76,5 +76,12 @@ let ano = prompt("Digite o ano do carro");
 console.log(marca);
 console.log(modelo);
 console.log(ano);*/
-
+/*
+console.log(" Mensagem personalizada");
+let nome = prompt("Digite seu nomeS");
+let mensagem= ("Olá!");
+function mensagemPersonalizada(nome,mensagem){
+console.log(mensagem + nome);
+}
+mensagemPersonalizada(nome,mensagem);*/
   
