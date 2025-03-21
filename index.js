@@ -84,4 +84,5 @@ function mensagemPersonalizada(nome,mensagem){
 console.log(mensagem + nome);
 }
 mensagemPersonalizada(nome,mensagem);*/
-  
+  console.log("Média");
+  let media = prompt("Digite um número");
