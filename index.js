@@ -41,10 +41,14 @@ function calcular(numero1,numero2){
 calcular(numero1,numero2);8 */
 
 console.log('Contadora');
-let i = 0;
 
- while(i< 1){
-    console.log('1 X ' + i + '=' + 1*i);
+let Contadora = 1;
+
+const valormaximo = 10;
+ while(contadora <= valormaximo){
+    console.log(contadora);
+    contadora++;
  }
+    
 
 
