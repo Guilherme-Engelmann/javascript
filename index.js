@@ -84,5 +84,13 @@ function mensagemPersonalizada(nome,mensagem){
 console.log(mensagem + nome);
 }
 mensagemPersonalizada(nome,mensagem);*/
+/*
   console.log("Média");
-  let media = prompt("Digite um número");
+  let num1 = prompt("Digite um número");
+  let num2 = prompt("Digite um número");
+  let num3 = prompt("Digite um número");
+  function calculadora(num1,num2,num3){
+    console.log((num1+num2+num3)/3);
+  }
+ calculadora(num1,num2,num3);
+ */
