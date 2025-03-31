@@ -94,11 +94,13 @@ mensagemPersonalizada(nome,mensagem);*/
   }
  calculadora(num1,num2,num3);
  */
-
+/*
+console.log("Laço");
  for (let i = 1; i <= 20; i++) {  
     if (i % 3 === 0) {  
         console.log(`${i} é Múltiplo de 3`);  
     } else {  
         console.log(`${i} é Não múltiplo de 3`);  
     }  
-}  
+}  */
+
