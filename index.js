@@ -103,4 +103,10 @@ console.log("Laço");
         console.log(`${i} é Não múltiplo de 3`);  
     }  
 }  */
+/*
+console.log("Verificar Palindromos");
+let texto= prompt("Digite uma palavra");
+function verificarPalindromo(texto) {  
+   
+}*/ 
 
