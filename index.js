@@ -110,3 +110,5 @@ function verificarPalindromo(texto) {
    
 }*/ 
 
+/* LISTA 2*/
+
