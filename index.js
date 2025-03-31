@@ -108,7 +108,7 @@ console.log("Verificar Palindromos");
 let texto= prompt("Digite uma palavra");
 function verificarPalindromo(texto) {  
    
-}*/ 
+}*/ /* Não consegui terminar a questão 10, pois não entendi como faze-la*/
 
 /* LISTA 2*/
 
